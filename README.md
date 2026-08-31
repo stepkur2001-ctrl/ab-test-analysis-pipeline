@@ -66,5 +66,5 @@ H1: p_A ≠ p_B
 ## Как запустить
 
 ```bash
-git clone <>
+git clone <https://github.com/stepkur2001-ctrl/ab-test-analysis-pipeline.git>
 cd ab-testing-from-sql-to-decision
