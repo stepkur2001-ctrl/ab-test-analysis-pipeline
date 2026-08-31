@@ -66,5 +66,5 @@ H1: p_A ≠ p_B
 ## Как запустить
 
 ```bash
-git clone <repo_url>
+git clone <>
 cd ab-testing-from-sql-to-decision
